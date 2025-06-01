@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/StudyFolder/MLOPS_GCP_Projects/ColorectalCancerPrediction/ColorectalCancerProject/mlruns/0/b5f180c2af214014b30fd5962da8ba5e/artifacts
+end_time: 1748780387204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5f180c2af214014b30fd5962da8ba5e
+run_name: intrigued-bear-192
+run_uuid: b5f180c2af214014b30fd5962da8ba5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748780380020
+status: 3
+tags: []
+user_id: Jalaj Rastogi
